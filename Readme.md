@@ -1,4 +1,4 @@
-## $h$/$i$-MADRL
+## h/i-MADRL
 
 This is the code accompanying the paper:  "Exploring both Individuality and Cooperation for Air-Ground Spatial Crowdsourcing by Multi-Agent Deep Reinforcement Learning", to be appear in ICDE 2023.
 
@@ -62,7 +62,7 @@ add `--output_dir <OUTPUT_DIR>` to specify the place to save outputs（by defaul
 
 ## :checkered_flag: Visualization
 
-The output including
+The output of training includes
 
 - tensorboard
 
